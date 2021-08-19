@@ -59,8 +59,8 @@ ABOUT_TEXT = """
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://telegram.me/Royalbotz'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/tgbotschat')
+        InlineKeyboardButton('🗄 CHANNEL', url='https://telegram.me/Royalbotz'),
+        InlineKeyboardButton('💬 SUPPORT', url='https://telegram.me/tgbotschat')
         ],[
         InlineKeyboardButton('💡HELP', callback_data='help'),
         InlineKeyboardButton('📓 ABOUT', callback_data='about'),
