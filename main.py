@@ -30,7 +30,7 @@ ADL_BOT_RQ = {}
 START_TEXT = """
 Hello {} , I'am a simple file or media rename bot with permanent thumbnail support.
 
-Made by @FayasNoushad
+© @FayasNoushad
 """
 HELP_TEXT = """
 <b><u>Rename</u></b>
