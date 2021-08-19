@@ -339,7 +339,7 @@ async def rename(bot, message):
                     document=new_file_name,
                     thumb=thumb_image_path,
                     caption=description,
-                    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')]]),
+                    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('◼️Join Updates Channel ◼️', url='https://telegram.me/Royalbotz')]]),
                     reply_to_message_id=message.reply_to_message.message_id,
                     progress=progress_for_pyrogram,
                     progress_args=("<code>Downloaded Successfully! Now I am Uploading to Telegram...</code>", a, c_time)
